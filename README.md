@@ -1,4 +1,4 @@
-# Webapp usando Streamlit
+# Webapp em Python usando Streamlit
 
 Utilizando dados de medição de temperatura em salas de servidor, desenvolvi uma série de gráficos para ajudar na análise do comportamento dessa variável em cada uma das estruturas em que as medições são realizadas.
 
